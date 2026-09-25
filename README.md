@@ -69,7 +69,7 @@ A curated learning and topic-organization project focused on structured technica
 ## Connect
 
 - LinkedIn: [Add your LinkedIn profile]
-- Email: [Add your email]
+- Email:acemaks007@gmail.com
 - Portfolio: [Add your website or portfolio]
 - Scarface Lab: [Add your lab/project website]
 
